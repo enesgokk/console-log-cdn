@@ -1,1 +1,1 @@
-console.log("CDN RUN");
+console.log("CDN RUN!");
